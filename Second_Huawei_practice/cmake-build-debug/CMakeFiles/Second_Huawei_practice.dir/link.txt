@@ -1,0 +1,1 @@
+/usr/bin/cc -pthread -g   CMakeFiles/Second_Huawei_practice.dir/main.c.o  -o Second_Huawei_practice 
